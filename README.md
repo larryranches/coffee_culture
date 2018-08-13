@@ -1,6 +1,8 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 # coffee_culture
 
+![](https://github.com/larryranches/coffee_culture/blob/master/coffee-culture-sample.gif)
+
 ## Stack
 - React Native: Mobile Framework
 - Graph.Cool backend: GraphQL backend as a service
